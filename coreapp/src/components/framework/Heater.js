@@ -21,7 +21,7 @@ export default function Header() {
             color="inherit"
             className={classes.toolbarTitle}
           >
-            Quizzes
+            Mcqs
           </Typography>
         </Toolbar>
       </AppBar>
